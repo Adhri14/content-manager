@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Coding Interview",
+    "description": "Sedang melakukan interview di Perusahaan ITommey",
+    "link": "https://link.com",
+    "image": "https://image.com",
+    "timeToFinish": 120,
+    "active": true,
+    "priority": 1
+  },
+  {
+    "id": "2",
+    "title": "Pindah Kerja",
+    "description": "Sedang bekerja di BRI",
+    "link": "https://link.com",
+    "image": "https://image.com",
+    "timeToFinish": 120,
+    "active": false,
+    "priority": 1
+  }
+]
